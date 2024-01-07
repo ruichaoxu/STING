@@ -19,4 +19,7 @@
   tak676_ERsafety_APR2023.R: Construct safety dataset and Cmax and conduct ER-safety analysis using logistic regression
 
 
-  tak676_Survival_JUN2023.R: Construct survival analysis dataset and perform the anslysis 
+  tak676_Survival_JUN2023.R: Construct survival analysis dataset and perform the analysis 
+
+
+  tak500_NONMEM_molar_popPK_0101_2024.R: Constructing NONMEM dataset for 2 species popPK modeling of TAK-500 tot.mAb and conj.676
