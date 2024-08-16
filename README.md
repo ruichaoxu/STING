@@ -22,4 +22,11 @@
   tak676_Survival_JUN2023.R: Construct survival analysis dataset and perform the analysis 
 
 
+
+# tak500 stuff
+
+
   tak500_NONMEM_molar_popPK_0101_2024.R: Constructing NONMEM dataset for 2 species popPK modeling of TAK-500 tot.mAb and conj.676
+
+
+  tak500_NCA_Aug.2024.R: Converting popPK dataset that was used in monolix to NCA dataset that is suitable for PKanalix. Reassigning ID being the major task.
